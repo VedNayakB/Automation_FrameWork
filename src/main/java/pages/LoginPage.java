@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage {
 	WebDriver driver;
-	//test
+	//Master_test1 //Develop_test2
 
 	public LoginPage(WebDriver driver) {
 	this.driver=driver;
